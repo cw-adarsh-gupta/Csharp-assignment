@@ -1,0 +1,13 @@
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.exe
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.deps.json
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.runtimeconfig.json
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.runtimeconfig.dev.json
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.dll
+C:\Users\USERMASTER\Desktop\testfolder\bin\Debug\netcoreapp3.1\testfolder.pdb
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.csprojAssemblyReference.cache
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.AssemblyInfoInputs.cache
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.AssemblyInfo.cs
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.csproj.CoreCompileInputs.cache
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.dll
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.pdb
+C:\Users\USERMASTER\Desktop\testfolder\obj\Debug\netcoreapp3.1\testfolder.genruntimeconfig.cache
